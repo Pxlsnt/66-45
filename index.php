@@ -35,6 +35,7 @@
     <a href="W06_01_loop_product.php">Show Product</a><br>
     <a href="W07_01_connectDB.php">Connect Database</a><br>
     <a href="W07_02_fetchData.php">fetch Data</a><br>
+    <a href="W08_01_productFromDB.php">Show Product (Fromdatabase)</a><br>
     <hr>
 
     </body>
